@@ -1,0 +1,7 @@
+# raw data
+hltb.jsonlines
+
+# database
+games.db
+games.db-shm
+games.db-wal
